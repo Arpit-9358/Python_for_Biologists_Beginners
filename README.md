@@ -13,6 +13,11 @@
 - Excel in Biopython, regular expressions, data analysis, and visualization with Pandas, Seaborn, and Matplotlib in real-world bioinformatics projects.
 
 - Hidden gems and unique techniques for efficient coding.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/270f7fdd-490e-407c-afe0-e7a441116855" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5ea88d5-cef7-48e2-ab4c-2d94d4508320" />
+
 # Are there any course requirements or prerequisites?
 
 - No prior programming experience required.
@@ -20,7 +25,5 @@
 - Bring your enthusiasm and perseverance, and you'll learn everything here!
 
 # Who this course is for:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae3955b1-fd42-4bdd-923e-05d69e27a2cc" />
 
-- This course is perfect for wetlab biologists transitioning into bioinformatics.
-
-- Beginners eager to learn efficient coding.
